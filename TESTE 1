@@ -1,0 +1,4 @@
+idadade 29 
+if idade >= 18 and idade < 70:
+    Print("seu voto é obrigatório")
+    
